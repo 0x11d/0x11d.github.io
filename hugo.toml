@@ -1,1 +1,29 @@
+baseURL = "https://0x11d.github.io/"
+locale = "en-us"
+title = "Fieldnotes"
 theme = "terminal"
+
+[pagination]
+pagerSize = 5
+
+[markup.highlight]
+noClasses = false
+
+[params]
+contentTypeName = "posts"
+showMenuItems = 2
+centerTheme = true
+
+[params.logo]
+logoText = "fieldnotes"
+logoHomeLink = "/"
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
