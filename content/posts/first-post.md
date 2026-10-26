@@ -5,7 +5,6 @@ date = "2026-10-27T02:52:02+05:30"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
