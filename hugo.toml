@@ -1,6 +1,6 @@
 baseURL = "https://0x11d.github.io/"
 locale = "en-us"
-title = "Fieldnotes"
+title = "0x11d"
 theme = "terminal"
 
 [pagination]
@@ -16,7 +16,7 @@ fullWidthTheme = true
 readMore = "Read more ..."
 
 [params.logo]
-logoText = "fieldnotes"
+logoText = "0x11d"
 logoHomeLink = "/"
 
 [[menu.main]]
