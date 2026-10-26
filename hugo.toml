@@ -12,7 +12,7 @@ noClasses = false
 [params]
 contentTypeName = "posts"
 showMenuItems = 2
-centerTheme = true
+fullWidthTheme = true
 readMore = "Read more ..."
 
 [params.logo]
